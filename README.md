@@ -1,5 +1,5 @@
 # Hello_skyscript
-skysccript
+skyscript
 I like :pizza: :coffee: :dancer:
 
 
